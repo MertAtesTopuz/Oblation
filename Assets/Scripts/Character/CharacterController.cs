@@ -20,6 +20,7 @@ public class CharacterController : MonoBehaviour
     // zemindeyken bile karakter haraket edince kendine bir y velociysi ekliyor
     // bazen duvardayken karakter allah katına uçabiliyor corner correct ile ilgili olabilir
     // double jump arasıra buglı çalışıyor
+    // wall grab ile wall run animasyonları çakışıyor
 
     // ANİMATOR HELLDEN KURTULLLLLLLL!!!!!
 
