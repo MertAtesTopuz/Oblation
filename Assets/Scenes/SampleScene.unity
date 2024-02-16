@@ -13506,7 +13506,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 164812145}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.06}
 --- !u!114 &519420034
 MonoBehaviour:
   m_ObjectHideFlags: 0
